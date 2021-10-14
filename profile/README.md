@@ -1,4 +1,18 @@
-## Payments and Governance Research Program
+## Welcome to the Payments and Governance Research Program
+
+We work closely with India's central and state governments to evaluate major reforms to social programming using large-scale randomized controlled trials (RCTs). 
+
+### Contact
+
+Press inquiries may be directed to [pgrp@povertyactionlab.org](pgrp@povertyactionlab.org). Written communication may be directed to 
+
+**JPAL SA at IFMR, AADI Building:** 
+*2 Balbir Saxena Marg, Hauz Khas, New Delhi 110016, India*
+
+or to
+
+**School of Global Strategy and Policy, UCSD:**
+*Office #1206, 9500 Gilman Drive, #0519, La Jolla, CA 92093-0519*
 
 <!--
 
