@@ -2,7 +2,7 @@
 
 We work closely with India's central and state governments to evaluate major reforms to social programming using large-scale randomized controlled trials (RCTs).
 
-For more information about who we are and what we do, please visit our [website](https://sites.google.com/ucsd.edu/pgrp/home?authuser=0)
+For more information about who we are and what we do, please visit our [website](https://sites.google.com/ucsd.edu/pgrp/home?authuser=0).
 
 ### Contact
 
